@@ -1,4 +1,4 @@
-# ContractNLI Shiny Annotation Dashboard v4
+# ContractNLI Annotation Dashboard 
 
 This version uses only the three current CSV files:
 
